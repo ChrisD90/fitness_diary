@@ -6,4 +6,12 @@
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+    <string name="exercise_name">Name of exercise*</string>
+    <string name="exercise_description">Short description</string>
+    <string name="exercise_primary_muscles">Choose primary muscles</string>
+    <string name="primary_muscle_chest">Chest</string>
+    <string name="primary_muscle_quadriceps">Quadriceps</string>
+    <string name="primary_muscle_biceps_femoris">Biceps femoris</string>
+    <string name="primary_muscle_gluteaus">Gluteaus</string>
+
 </resources>

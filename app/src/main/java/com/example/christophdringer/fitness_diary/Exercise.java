@@ -4,14 +4,14 @@ import android.media.Image;
 
 import java.util.ArrayList;
 
-public class Excercise {
+public class Exercise {
 
     private String name;
     private ArrayList<String> musclegroups;
     private String description;
     private Image image;
 
-    public Excercise(String name) {
+    public Exercise(String name) {
         this.name = name;
     }
 
