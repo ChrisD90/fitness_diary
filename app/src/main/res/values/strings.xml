@@ -9,6 +9,7 @@
     <string name="exercise_name">Name of exercise*</string>
     <string name="exercise_description">Short description</string>
     <string name="exercise_primary_muscles">Choose primary muscles</string>
+    <string name="exercise_image">Add image</string>
     <string name="primary_muscle_chest">Chest</string>
     <string name="primary_muscle_quadriceps">Quadriceps</string>
     <string name="primary_muscle_biceps_femoris">Biceps femoris</string>
